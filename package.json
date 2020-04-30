@@ -1,0 +1,19 @@
+{
+  "name": "core-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogevye/core-mongo.git"
+  },
+  "author": "YogevYehuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogevye/core-mongo/issues"
+  },
+  "homepage": "https://github.com/yogevye/core-mongo#readme"
+}
